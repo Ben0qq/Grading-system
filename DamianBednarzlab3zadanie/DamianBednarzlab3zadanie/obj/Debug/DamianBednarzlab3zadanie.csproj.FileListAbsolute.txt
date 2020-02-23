@@ -1,0 +1,12 @@
+C:\Users\damid\source\repos\DamianBednarzlab3zadanie\DamianBednarzlab3zadanie\bin\Debug\DamianBednarzlab3zadanie.exe.config
+C:\Users\damid\source\repos\DamianBednarzlab3zadanie\DamianBednarzlab3zadanie\bin\Debug\DamianBednarzlab3zadanie.exe
+C:\Users\damid\source\repos\DamianBednarzlab3zadanie\DamianBednarzlab3zadanie\bin\Debug\DamianBednarzlab3zadanie.pdb
+C:\Users\damid\source\repos\DamianBednarzlab3zadanie\DamianBednarzlab3zadanie\obj\Debug\DamianBednarzlab3zadanie.csprojAssemblyReference.cache
+C:\Users\damid\source\repos\DamianBednarzlab3zadanie\DamianBednarzlab3zadanie\obj\Debug\DamianBednarzlab3zadanie.FormLogin.resources
+C:\Users\damid\source\repos\DamianBednarzlab3zadanie\DamianBednarzlab3zadanie\obj\Debug\DamianBednarzlab3zadanie.FormAdmin.resources
+C:\Users\damid\source\repos\DamianBednarzlab3zadanie\DamianBednarzlab3zadanie\obj\Debug\DamianBednarzlab3zadanie.FormUser.resources
+C:\Users\damid\source\repos\DamianBednarzlab3zadanie\DamianBednarzlab3zadanie\obj\Debug\DamianBednarzlab3zadanie.Properties.Resources.resources
+C:\Users\damid\source\repos\DamianBednarzlab3zadanie\DamianBednarzlab3zadanie\obj\Debug\DamianBednarzlab3zadanie.csproj.GenerateResource.cache
+C:\Users\damid\source\repos\DamianBednarzlab3zadanie\DamianBednarzlab3zadanie\obj\Debug\DamianBednarzlab3zadanie.csproj.CoreCompileInputs.cache
+C:\Users\damid\source\repos\DamianBednarzlab3zadanie\DamianBednarzlab3zadanie\obj\Debug\DamianBednarzlab3zadanie.exe
+C:\Users\damid\source\repos\DamianBednarzlab3zadanie\DamianBednarzlab3zadanie\obj\Debug\DamianBednarzlab3zadanie.pdb
